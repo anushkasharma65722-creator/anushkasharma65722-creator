@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Anushka Kushwah Banner" width="100%">
-</p>
-
 ## Hi there! I'm Anushka 👋
 
 # 💫 About Me:
