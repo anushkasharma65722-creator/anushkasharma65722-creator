@@ -1,4 +1,8 @@
-## Hi there! I'm Anushka Sharma 👋
+<p align="center">
+  <img src="banner.png" alt="Anushka Kushwah Banner" width="100%">
+</p>
+
+## Hi there! I'm Anushka 👋
 
 # 💫 About Me:
 👩🏻‍💻 Currently learning C++ & C<br>🐍 Planning to start Python soon<br>☁️ Exploring AWS & Cloud technologies<br>🌱 Always learning and exploring new technologies<br>💬 Working on communication & soft skills<br>🐢 A slow learner, but consistent and trying every day<br>🚀 Learning, improving & building one step at a time
